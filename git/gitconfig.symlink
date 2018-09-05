@@ -121,3 +121,6 @@
 
     #grumble
     ffs = "!git all && git commit --amend"
+[user]
+	email = rperezalcolea@netflix.com
+	name = Roberto Perez Alcolea
